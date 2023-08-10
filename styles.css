@@ -177,6 +177,9 @@ img {
     .g-c {
         margin-top: 100px;
     }
+    .image-container img {
+        height: 700px;
+    }
 }
 
 .image-container {
